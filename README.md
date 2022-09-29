@@ -5,11 +5,17 @@ Welcome to Metric converter! This code helps to calculate certain metric convers
 ## What does the code do?
 
 When the code is ran it welcome you to the metric converter program. For this program there are 6 converstions that can be done.
+
 km to m (kilometers to meters)
+
 km to mile (Kilometers to miles)
+
 mm to in (milimeters to inches)
+
 cm to in (centimeters to inches)
+
 kg to lb (kilograms to pounds)
+
 m to ft (meters to feet)
 
 ## How does it work?
