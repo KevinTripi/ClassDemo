@@ -8,7 +8,7 @@ When the code is ran it welcome you to the metric converter program. For this pr
 
 km to m (kilometers to meters)
 
-km to mile (Kilometers to miles)
+km to mile (kilometers to miles)
 
 mm to in (milimeters to inches)
 
