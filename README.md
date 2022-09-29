@@ -21,7 +21,9 @@ m to ft (meters to feet)
 ## How does it work?
 
 simply when the code asks for you metric to be converted choose one of the 6 operations.
+
 for example if you wanted to do 4 km converted to m. Then you would type 4 km = m.
+
 After that the program with solve the equation and ask for a another conversion.
 
 ## What if I'm done with my conversions?
