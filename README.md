@@ -1,18 +1,24 @@
 ## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Welcome to Metric converter! This code helps to calculate certain metric conversion.
 
-## Folder Structure
+## What does the code do?
 
-The workspace contains two folders by default, where:
+When the code is ran it welcome you to the metric converter program. For this program there are 6 converstions that can be done.
+km to m (kilometers to meters)
+km to mile (Kilometers to miles)
+mm to in (milimeters to inches)
+cm to in (centimeters to inches)
+kg to lb (kilograms to pounds)
+m to ft (meters to feet)
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## How does it work?
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+simply when the code asks for you metric to be converted choose one of the 6 operations.
+for example if you wanted to do 4 km converted to m. Then you would type 4 km = m.
+After that the program with solve the equation and ask for a another conversion.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## What if I'm done with my conversions?
 
-## Dependency Management
+type exit and the program will stop
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
